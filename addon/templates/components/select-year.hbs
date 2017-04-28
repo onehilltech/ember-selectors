@@ -1,0 +1,6 @@
+{{#if prompt}}
+  <option selected={{not selected}}>{{prompt}}</option>
+{{/if}}
+{{#each years as |year|}}
+  <option value={{year}} selected={{eq year selected}}>{{year}}</option>
+{{/each}}

@@ -1,0 +1,1 @@
+export { default } from 'ember-selectors/components/select-year';
