@@ -1,6 +1,6 @@
 {
   "name": "ember-selectors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Common html selectors for EmberJS applications",
   "keywords": [
     "ember-addon"
