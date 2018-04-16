@@ -1,5 +1,7 @@
 # ember-selectors
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onehilltech/ember-selectors.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
